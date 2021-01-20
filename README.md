@@ -1,7 +1,7 @@
 # Mark Rachapoom
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markkypanc&langs_count=8)](https://github.com/markkypanc/github-readme-stats)
  
-In case of contacting:
+Contact Information:
 
  <a href="https://www.linkedin.com/in/rphanchotong/">
    <img align="left" alt="Mark's LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
