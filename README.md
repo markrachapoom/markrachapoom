@@ -15,7 +15,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markkypanc&langs_count=8)](https://github.com/markkypanc/github-readme-stats)
 
 <a href="https://github.com/markkypanc/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markkypanc&repo=Swift-Beginner-Tutorials" />
+  <
+  img align="center" 
+       src="https://github-readme-stats.vercel.app/api/pin/?username=markkypanc&repo=Swift-Beginner-Tutorials" 
+       bg_color="#ffffff"
+       />
 </a>
 <a href="https://github.com/markkypanc/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markkypanc&repo=CPlusPlus-Beginner-Tutorials" />
