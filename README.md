@@ -23,3 +23,10 @@
 <img align="bottom" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markkypanc&langs_count=8)](https://github.com/markkypanc/github-readme-stats)
+
+<a href="https://github.com/markkypanc/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markkypanc&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/markkypanc/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markkypanc&repo=Swift-From-Scratch" />
+</a>
