@@ -20,7 +20,7 @@ Hi there, I'm **Rachapoom Phanchotong**, a **Software Engineering student** 🚀
 
 **Languages and Tools:**  
 
-
+**Programming Language:**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -28,5 +28,3 @@ Hi there, I'm **Rachapoom Phanchotong**, a **Software Engineering student** 🚀
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-⭐️ Thank you [ZamranxD](https://github.com/ZamranxD) for template
