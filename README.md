@@ -27,3 +27,5 @@ Hi there, I'm **Rachapoom Phanchotong**, a **Software Engineering student** 🚀
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img align="bottom" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markkypanc&layout=compact)](https://github.com/markkypanc/github-readme-stats)
