@@ -7,13 +7,10 @@
 <a href="https://www.instagram.com/markkypanc/">
   <img align="left" alt="Mark's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ZamranxD">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/Rachapoom Phanchotong">
+  <img align="left" alt="Mark's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
-<br />
 <br />
 
 Hi there, I'm **Mohammad Zamran**, a **Software Engineering student** 🚀 from Lahore, Pakistan.
