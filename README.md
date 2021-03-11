@@ -12,5 +12,13 @@ Contact Information:
  <a href="https://www.facebook.com/Rachapoom Phanchotong">
    <img align="left" alt="Mark's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
  </a>
+ 
+ 
+ <p align='center'>
+<a href="https://twitter.com/markkypanc"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/markkypanc/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bycyril/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
  <br>
  <br />
