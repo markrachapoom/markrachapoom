@@ -1,10 +1,9 @@
 # Mark Rachapoom
 
-I am Mark, a self-taught iOS developer who started teaching myself how to code a while before entering college when I didn't even know how to print "Hello, World". My mission is to expand the community of diary&journaling in order to let people know how wonderful it is to keep memories and appreciate the most valuable asset of our life, time.
+I am Mark, a self-taught iOS developer and the creator of Diary Dingo who started teaching myself how to code from scratch a while before entering college when I didn't even know how to print "Hello, World". I dreamt, I learnt, I designed, I built and I am truly passionate about iOS development and I am on my way to make this world the most wonderful place by making my dream a reality, in this case, building an app and a well-crafted project.
 
-My host mom in the US passed away and what I wrote in the diary every single day for 10 months reflects how beautiful it is to keep our stories and memories in the diary.
+In short, I have been building apps with UIKit&SwiftUI as frameworks that are integrated by various Swift and third-party like Core Data, Firebase, Cocoapods, WidgetKit, PhotosUI, LocalAuthentication, UserNotifications, iCloud, Social, SnapKit, Cocoapods, MapKit, Swift Foundation. and many more with a solid understanding of Model-View-ViewModel(MVVM) architectural pattern while MVC is a plus.
 
-I dreamt, I learnt, I designed, I built and I am truly passionate about iOS development and I am on my way to make this world the most wonderful place by making dream a reality, in this case, building an app and a well-crafted project.
 
 Available on App Store: https://apps.apple.com/app/diary-dingo/id1580242680
 
