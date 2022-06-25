@@ -4,6 +4,8 @@ https://www.markrachapoom.com
 
 I am Mark, a self-taught iOS developer who can design and the creator of Diary Dingo who started teaching myself how to code from scratch a while before entering college when I didn't even know how to print "Hello, World".
 
+I am optimistic on Ethereum network. I switched from Mobile Engineer to Web3 frontend engineer full-time because of it. I want to build the bridge that connects human and technologies as much as one person can be capable of.
+
 In short, I have been building apps with UIKit&SwiftUI as frameworks that are integrated by various Swift and third-party like Core Data, Firebase, Cocoapods, WidgetKit, PhotosUI, LocalAuthentication, UserNotifications, iCloud, Social, SnapKit, Cocoapods, MapKit, Swift Foundation. and many more with a solid understanding of Model-View-ViewModel(MVVM) architectural pattern while MVC is a plus.
 
 I dreamt, I learnt, I designed, I built and I am truly passionate about iOS development and I am on my way to make this world the most wonderful place by making dream a reality, in this case, building an app and a well-crafted project.
