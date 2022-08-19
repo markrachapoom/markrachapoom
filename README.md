@@ -17,5 +17,3 @@ https://apps.apple.com/app/diary-dingo/id1580242680
 
 ![alt text](https://polywork-production.imgix.net/jcj97s3zhzk4363mx9oceuxm1fyr?ixlib=rails-4.2.0&w=4096&auto=format&dpr=1&q=75)
 ![alt text](https://pbs.twimg.com/media/E_51M0XUUBghc5y?format=jpg&name=4096x4096)
-
-![alt text](https://www.monument.app/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fassets%2Fsplash-mc.eb0b4d0295cd7135eab13796b64bc7ad.png&w=3840&q=75)
