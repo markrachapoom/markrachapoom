@@ -2,7 +2,7 @@
 
 https://www.markrachapoom.com
 
-building https://merce.app, The socialized streaming platform where knoeledgable content meets musical psychotechnology.
+building https://merce.app, the socialized streaming platform where knoeledgable content meets musical psychotechnology.
 
 I am Mark, a self-taught iOS developer who can design and the creator of Diary Dingo who started teaching myself how to code from scratch a while before entering college when I didn't even know how to print "Hello, World".
 
