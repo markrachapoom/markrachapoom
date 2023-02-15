@@ -2,7 +2,7 @@
 
 https://www.markrachapoom.com
 
-building https://www.merse.co, the Airbnb for startups.
+building https://www.merse.co, Airbnb for startups.
 
 I am Mark, a self-taught iOS developer who can design and the creator of Diary Dingo who started teaching myself how to code from scratch a while before entering college when I didn't even know how to print "Hello, World".
 
