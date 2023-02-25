@@ -2,9 +2,7 @@
 
 https://www.markrachapoom.com
 
-I am Mark Rachapoom, a 20-year-old college dropout, and previously worked for a startup company that is based in Silicon Valley as a Software Engineer who can design and build. Currently building Merse (merse.co), Airbnb for startups.
-
-building https://www.merse.co, Airbnb for startups.
+Hey there! I'm Mark Rachapoom, a 20-year-old college dropout and former software engineer for a startup in Silicon Valley who can design and build iOS, MacOS, and Website apps. Currently building Merse (merse.co or mersecompany.com): Airbnb for startups: Global community-oriented incubation office spaces for startups paid by cash, crypto, and equity.
 
 Creator of Diary Dingo, an iOS app that hit TOP3 worldwide in less than 24 hours after the launch on the Apple App Store.
 Diary Dingo is now available to download on the Apple App Store
