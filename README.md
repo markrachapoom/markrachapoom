@@ -12,6 +12,7 @@ Hey there! I'm Mark Rachapoom, a 20-year-old college dropout and former software
 Currently building Merse ([merse.co](https://www.merse.co) or [mersecompany.com](https://www.mersecompany.com)): Stripe for equity: simplifying equity transfers and management for individuals and businesses in one seamless platform.
 
 
+
 ### AI generated comic journaling entry
 🌐 [https://comic.merse.co](https://comic.merse.co)
 Building in storytelling GenAI that provides platform. It is a frictionless, end-to-end GenAI engine for creating style-consistent storyboards by generating layouts, scenes, and text content to enhance an artist’s storyboarding process. Merse achieves this by enabling artists to train their own personalized generator on first-party training data (that they must own). Intended use cases range from visualizing day to day journaling and blogging for personal usage to enterprise level integrations for rapid storyboarding for Disney+, Pixar, DreamWorks animators.
