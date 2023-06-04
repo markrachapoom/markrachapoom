@@ -6,12 +6,12 @@ Hey there! I'm Mark Rachapoom, a 20-year-old college dropout and former software
 
 <br/>
 
-## Currently building
+### Currently building
 ## AI generated comic journaling entry
 🌐 [https://comic.merse.co](https://comic.merse.co)<br/>
 Building in storytelling GenAI that provides platform. It is a frictionless, end-to-end GenAI engine for creating style-consistent storyboards by generating layouts, scenes, and text content to enhance an artist’s storyboarding process. Merse achieves this by enabling artists to train their own personalized generator on first-party training data (that they must own). Intended use cases range from visualizing day to day journaling and blogging for personal usage to enterprise level integrations for rapid storyboarding for Disney+, Pixar, DreamWorks animators.
 
-## Chat With YC
+### Chat With YC
 🌐 https://www.chatwithyc.com<br/>
 I fine-tuned OpenAI Davinci-003 model with scrapped Y-combinator transcript&their info and built simple ChatGPT-like website for fun with old-schooled YC design system :)).
 
