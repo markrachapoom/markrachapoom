@@ -8,8 +8,9 @@ Hey there! I'm Mark Rachapoom, a 20-year-old college dropout and former software
 ## Currently building
 
 
-### Merse: Equity Infrastructure for the internet
-Currently building Merse ([merse.co](https://www.merse.co) or [mersecompany.com](https://www.mersecompany.com)): Stripe for equity: simplifying equity transfers and management for individuals and businesses in one seamless platform.
+## Chat With YC
+🌐 https://www.chatwithyc.com
+I fine-tuned OpenAI Davinci-003 model with scrapped Y-combinator transcript&their info and built simple ChatGPT-like website for fun with old-schooled YC design system :)).
 
 
 
