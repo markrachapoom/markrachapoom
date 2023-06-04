@@ -26,7 +26,8 @@ https://apps.apple.com/app/diary-dingo/id1580242680
 <!-- ![alt text](https://file.notion.so/f/s/d327a7ca-c729-4519-b3cb-7f1d5bca0212/Untitled.png?id=6b4c9e26-bcfe-4e03-93cb-17a4eb6dae9c&table=block&spaceId=19ff3521-9b85-44f6-b053-2c287c1bd7bd&expirationTimestamp=1681217504163&signature=Cao3MuBQdg0PMzigyq6ZlsH2ZL50Did0LxttfU1oP3s&downloadName=Untitled.png) -->
 
 ![alt text](https://github.com/markrachapoom/markrachapoom/blob/main/resources/comic-landing-screenshot.png?raw=true)
-Demo Video: https://www.youtube.com/watch?v=RSO1GCPq8r8<br/>
+Demo Video: https://www.youtube.com/watch?v=RSO1GCPq8r8
+<br/>
 
 ![chat with yc](https://github.com/markrachapoom/markrachapoom/blob/main/resources/chatwithyc-screenshot.png?raw=true)
 ![alt text](https://pbs.twimg.com/profile_banners/1466847815905136641/1678186160/1500x500)
