@@ -30,6 +30,6 @@ Demo Video: https://www.youtube.com/watch?v=RSO1GCPq8r8
 <br/>
 
 ![chat with yc](https://github.com/markrachapoom/markrachapoom/blob/main/resources/chatwithyc-screenshot.png?raw=true)
-![alt text]([https://pbs.twimg.com/profile_banners/1466847815905136641/1678186160/1500x500](https://pbs.twimg.com/profile_banners/1404301905019379716/1630342778/1500x500))
+![alt text](https://pbs.twimg.com/profile_banners/1466847815905136641/1678186160/1500x500)
 ![alt text](https://pbs.twimg.com/media/E_51M0XUUBghc5y?format=jpg&name=4096x4096)
 ![alt text](https://polywork-production.imgix.net/jcj97s3zhzk4363mx9oceuxm1fyr?ixlib=rails-4.2.0&w=4096&auto=format&dpr=1&q=75)
