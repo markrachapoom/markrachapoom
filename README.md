@@ -1,6 +1,6 @@
 # Mark Rachapoom
 
-https://www.markrachapoom.com
+https://www.rachapoom.com
 
 Hey there! I'm Mark Rachapoom, a 21-year-old college dropout and former software engineer for a startup in Silicon Valley who can design and build iOS, MacOS, and Website apps. 
 
