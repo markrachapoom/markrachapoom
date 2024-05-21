@@ -1,8 +1,8 @@
 # Mark Rachapoom
 
-https://www.rachapoom.com
+https://www.markrachapoom.com
 
-Hey there! I'm Mark Rachapoom, a 21-year-old college dropout and former software engineer for a startup in Silicon Valley who can design and build iOS, MacOS, and Website apps. 
+Hey there, I'm Mark Rachapoom, a 21-year-old founder, college dropout, and former software engineer for a startup in Silicon Valley who can build iOS, web, and full-stack apps. I can also design at industry standards.
 
 ## Currently building
 ### AI generated comic journaling entry
@@ -21,10 +21,6 @@ https://apps.apple.com/app/diary-dingo/id1580242680
 <br/>
 
 <!-- ![alt text](https://file.notion.so/f/s/d327a7ca-c729-4519-b3cb-7f1d5bca0212/Untitled.png?id=6b4c9e26-bcfe-4e03-93cb-17a4eb6dae9c&table=block&spaceId=19ff3521-9b85-44f6-b053-2c287c1bd7bd&expirationTimestamp=1681217504163&signature=Cao3MuBQdg0PMzigyq6ZlsH2ZL50Did0LxttfU1oP3s&downloadName=Untitled.png) -->
-
-![alt text](https://github.com/markrachapoom/markrachapoom/blob/main/resources/comic-landing-screenshot.png?raw=true)
-Demo Video: https://www.youtube.com/watch?v=RSO1GCPq8r8
-<br/>
 
 ![chat with yc](https://github.com/markrachapoom/markrachapoom/blob/main/resources/chatwithyc-screenshot.png?raw=true)
 ![alt text](https://pbs.twimg.com/profile_banners/1404301905019379716/1630342778/1500x500)
