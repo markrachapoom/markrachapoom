@@ -2,7 +2,7 @@
 
 https://www.markrachapoom.com
 
-Hey there, I'm Mark Rachapoom, a 21-year-old founder, college dropout, and former software engineer for a startup in Silicon Valley who can build iOS, web, and full-stack apps. I can also design at industry standards.
+Hey there, I am a 21-year-old co-founder of Merse, part of Y Combinator S24. I'm a college dropout who previously developed a top-ranking iOS app, reaching #3 on the App Store. I was selected as one of 40 participants in the Vercel AI Accelerator. I am also a design engineer with a strong sense of design.
 
 
 <!-- Creator of Diary Dingo, an iOS app that hit TOP3 worldwide in less than 24 hours after the launch on the Apple App Store.
